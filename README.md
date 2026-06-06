@@ -9,10 +9,10 @@ A collection of cybersecurity tools and learning projects built while exploring 
 | Tool | Description |
 |--------|--------|
 | Password Strength Checker | Evaluates password strength using common security criteria |
+| Hash Generator | Generates cryptographic hashes using multiple algorithms |
 
 ## Planned Tools
 
-- Hash Generator
 - File Integrity Checker
 - URL Analyzer
 - Port Scanner
